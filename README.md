@@ -2,7 +2,7 @@
 
 This project compares the runtime performance of different image processing techniques on the CPU vs the GPU in C++. These image processing techniques, which were implemented from scratch, include binarization via Sauvola's methodology and segmentation via the 4-connectivity two-pass connected components labeling algorithm.
 
-![Image processing pipeline given stream of images]([https://github.com/untermanlm/ImageProcessingGPU/blob/main/image_segmentation_pipeline.png])
+![Image processing pipeline given stream of images](https://github.com/untermanlm/ImageProcessingGPU/blob/main/image_segmentation_pipeline.png)
 
 **Abstract:**
 This report summarizes the results achieved for
